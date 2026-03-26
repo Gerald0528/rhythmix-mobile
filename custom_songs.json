@@ -1,0 +1,93 @@
+[
+  {
+    "id": "abducted",
+    "title": "Galactic",
+    "artist": "Synthion & Sefaro",
+    "file": "Abducted_by_vegtam__Geometry_Dash_2_2.mp3",
+    "bpm": 174.0,
+    "duration": 135500,
+    "color": [
+      0,
+      200,
+      255
+    ]
+  },
+  {
+    "id": "clubstep__(geeser_remix)",
+    "title": "Clubstep  (Geeser Remix)",
+    "artist": "DJVI, Geeser",
+    "file": "DJ -Nate Clubstep  (Geeser Remix).mp3",
+    "bpm": null,
+    "duration": 85880,
+    "color": [
+      255,
+      200,
+      0
+    ]
+  },
+  {
+    "id": "till_it's_over",
+    "title": "Till It's Over",
+    "artist": "Tristam",
+    "file": "Till It's Over (Layout) by Zafkiel & More  Geometry Dash.mp3",
+    "bpm": null,
+    "duration": 253997,
+    "color": [
+      255,
+      200,
+      0
+    ]
+  },
+  {
+    "id": "spring_carnival",
+    "title": "Spring Carnival",
+    "artist": "3R2",
+    "file": "[Muse Dash] Spring Carnival - 3R2 \u97f3\u6e90 \u9ad8\u97f3\u8cea.mp3",
+    "bpm": null,
+    "duration": 114255,
+    "color": [
+      60,
+      255,
+      120
+    ]
+  },
+  {
+    "id": "light_of_muse",
+    "title": "Light of Muse",
+    "artist": "AyatsuguOtawa",
+    "file": "Light of Muse - AyatsuguOtawa (Lyrics Video).mp3",
+    "bpm": null,
+    "duration": 96538,
+    "color": [
+      255,
+      60,
+      120
+    ]
+  },
+  {
+    "id": "every_end",
+    "title": "Every End",
+    "artist": "DImrain64",
+    "file": "Every End by MindCap.mp3",
+    "bpm": null,
+    "duration": 675339,
+    "color": [
+      255,
+      120,
+      0
+    ]
+  },
+  {
+    "id": "abducted_by_vegtam__geometry_dash_2.2",
+    "title": "Abducted by vegtam  Geometry Dash 2.2",
+    "artist": "Unknown",
+    "file": "Abducted by vegtam  Geometry Dash 2.2.mp3",
+    "bpm": null,
+    "duration": 203293,
+    "color": [
+      255,
+      120,
+      0
+    ]
+  }
+]
